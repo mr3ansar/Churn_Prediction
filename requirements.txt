@@ -4,7 +4,7 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
-streamlit
+streamlit == 1.31.1
 ipykernel
 keras
 protobuf>=3.20.0 < 4
