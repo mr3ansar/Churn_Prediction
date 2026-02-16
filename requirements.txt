@@ -7,5 +7,5 @@ matplotlib
 streamlit == 1.31.1
 ipykernel
 keras
-protobuf>=3.20.0 < 4
+protobuf>=3.20.0, < 4
 altair==4.2.2
